@@ -1,4 +1,6 @@
-oi meu nome é gabriel e to treinando git bush
+oi meu nome é gabriel e to treinando git bash
+
+
 
 git init - Cria um repositório local
 
@@ -20,7 +22,7 @@ git checkout "branch" - acessa a branch
 
 git merge "branch" - junta a branch
 
-
+git clone "link repositório" - clona um repositório
 
 
 
