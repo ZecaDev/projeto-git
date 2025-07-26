@@ -18,6 +18,7 @@ git checkout -b "titulo" - cria uma nova branch
 
 git checkout "branch" - acessa a branch
 
+git merge "branch" - junta a branch
 
 outros codigos do console
 
