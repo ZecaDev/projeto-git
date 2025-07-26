@@ -2,9 +2,9 @@ oi meu nome é gabriel e to treinando git bush
 
 git init - Cria um repositório local
 
-git add - Prepara o arquivo para o commit
+git add (pode colocar nome do arquivo ou colocar um "." para selecionar todos) - Prepara o arquivo para o commit
 
-git -m commit - faz o envio dos arquivos inserido no add
+git commit -m "titulo" - faz o envio dos arquivos inserido no add
 
 git status - mostra os arquivos que estão para ser comitados
 
@@ -35,4 +35,6 @@ echo "adicione um texto" > arquivo - adiciona um texto no arquivo desejado
 cat - le o arquivo
 
 cat -n - mostra as o numero das linhas ao lado do conteúdo escrito
+
+clear - limpa a tela
  
