@@ -20,6 +20,10 @@ git checkout "branch" - acessa a branch
 
 git merge "branch" - junta a branch
 
+
+
+
+
 outros codigos do console
 
 pwd - mostra o diretorio onde está
