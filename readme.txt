@@ -17,6 +17,8 @@ git push -u origin[repositório remoto] main[repositório loca] - envia os commi
 
 
 
+git checkout "branch" - acessa a branch
+
 
 outros codigos do console
 
