@@ -22,6 +22,8 @@ git remote add origin "repositório remoto" - liga o repositório local com o re
 
 git push -u origin[repositório remoto] main[repositório loca] - envia os commits para o repositório remoto
 
+git pull origin[repositório remoto] main[repositório loca]
+
 git merge "branch" - junta a branch
 
 git clone "link repositório" - clona um repositório
